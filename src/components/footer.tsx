@@ -34,29 +34,29 @@ function Footer(){
        <ul className="list-none flex">
      
       <li>
-        <Link href="https://youtube.com/@muzaffaritacademy?si=ViSjim7Zs95fDwXQ"  target="_blank" rel="noopener noreferrer">
+        <Link href="https://www.youtube.com/@KamranTessorikk"  target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faYoutube} className="text-red-500 text-3xl mr-2  transition duration-200 ease-out hover:scale-105 hover:ease-in" />
         </Link>
       </li>
 
       <li>
-        <Link href="https://www.linkedin.com/in/muzaffar-ali-0b3939315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"  target="_blank" rel="noopener noreferrer">
+        <Link href="https://www.linkedin.com/in/shahid-khan-874078290/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAeuUt6IPQ1qzhxCYISrgbQ%3D%3D"  target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faLinkedin} className="text-blue-700 text-3xl mr-2  transition duration-200 ease-out hover:scale-105 hover:ease-in" />
         </Link>
       </li>
 
       <li>
-        <Link href="https://www.tiktok.com/@_muzaffar_ali_?_t=8qCq6QIr05a&_r=1 "  target="_blank" rel="noopener noreferrer">
+        <Link href=""  target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faTiktok} className="text-black text-3xl mr-2  transition duration-200 ease-out hover:scale-105 hover:ease-in" />
         </Link>
       </li>
       <li>
-        <Link href="https://web.facebook.com/profile.php?id=100093557110026"  target="_blank" rel="noopener noreferrer">
+        <Link href="https://www.facebook.com/profile.php?id=100076095862479"  target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faFacebook} className="text-blue-500 text-3xl mr-2  transition duration-200 ease-out hover:scale-105 hover:ease-in" />
         </Link>
       </li>
       <li>
-        <Link href="https://chat.whatsapp.com/EJ4MB6rr9Jm6Nlj4YYMrH1"  target="_blank" rel="noopener noreferrer">
+        <Link href=""  target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faWhatsapp} className="text-green-500 text-3xl mr-2  transition duration-200 ease-out hover:scale-105 hover:ease-in" />
         </Link>
        </li>
